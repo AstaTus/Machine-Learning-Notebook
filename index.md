@@ -1,3 +1,8 @@
+<head>
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+</head>
 *这是斜体*
 **这是粗体**
 This is [an example](http://wwwbaidu.com/ "Title") inline link.
