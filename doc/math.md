@@ -6,10 +6,16 @@
 
 ### 微积分
 
-ML在微积分中主要用到的是求导
-
 #### 求导公式：
 ​	$\frac{df(x)}{dx} = \lim_{\Delta x \rightarrow 0} \frac{f(x + \Delta x) - f(x)}{\Delta x}$
+
+
+
+#### 链式法则
+
+$\frac{\delta y}{\delta x} = \frac{\delta y}{\delta z}\frac{\delta z}{\delta x}$
+
+标量的链式法则右侧是乘积，但是矩阵的链式法则，右侧是点积
 
 
 
